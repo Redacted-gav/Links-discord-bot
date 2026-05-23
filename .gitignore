@@ -1,0 +1,4 @@
+bot/botKey.txt
+*.env
+venv/
+__pycache__/
